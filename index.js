@@ -1,7 +1,7 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
 // Your Gemini API key
-const GEMINI_API_KEY = "";
+const GEMINI_API_KEY = "AIzaSyC8j0ORvnxI4B9wrbfgZAe_MOCVYDT1DPg";
 
 const generateStoryBtn = document.getElementById("generate-story-btn");
 generateStoryBtn.addEventListener("click", generateStory);
